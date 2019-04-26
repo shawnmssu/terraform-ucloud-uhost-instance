@@ -93,7 +93,7 @@ module "uhost_instance" {
 
 ## Authors
 
-Module managed by [mingsheng.su](https://github.com/shawnmssu).
+Module managed by [mingsheng.su](https://github.com/shawnmssu) \<mingsheng.su@ucloud.cn\>.
 
 ## Reference
 
